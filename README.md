@@ -1,4 +1,4 @@
-# **OGMIAO-PDP**
+# **OGMIAO-Product Sync**
 
 这是一个魔方财务系统下的插件，用于方便代理快速对接商品（基于ojw_sy大规模二改）
 
